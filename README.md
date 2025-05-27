@@ -4,13 +4,13 @@ Convert any YouTube video into a well-written blog article with AI.
 Powered by Hugging Face Transformers, runs entirely offline — no API key needed.
 
 ## 🔧 Features
-- 🎥 Input YouTube URL
-- ✍️ Summarizes video using AI
-- 🧠 Extracts SEO keywords
-- 📥 Downloadable blog export
-- 💻 Runs locally with Streamlit
+-  Input YouTube URL
+-  Summarizes video using AI
+-  Extracts SEO keywords
+-  Downloadable blog export
+-  Runs locally with Streamlit
 
-## 🚀 Technologies Used
+##  Technologies Used
 - Python
 - Streamlit
 - Hugging Face Transformers
